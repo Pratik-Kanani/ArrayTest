@@ -1,0 +1,15 @@
+C:\SwabhavTrainingRepo\day1\ArrayTest\bin\Debug\net6.0\ArrayTest.exe
+C:\SwabhavTrainingRepo\day1\ArrayTest\bin\Debug\net6.0\ArrayTest.deps.json
+C:\SwabhavTrainingRepo\day1\ArrayTest\bin\Debug\net6.0\ArrayTest.runtimeconfig.json
+C:\SwabhavTrainingRepo\day1\ArrayTest\bin\Debug\net6.0\ArrayTest.dll
+C:\SwabhavTrainingRepo\day1\ArrayTest\bin\Debug\net6.0\ArrayTest.pdb
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\ArrayTest.csproj.AssemblyReference.cache
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\ArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\ArrayTest.AssemblyInfoInputs.cache
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\ArrayTest.AssemblyInfo.cs
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\ArrayTest.csproj.CoreCompileInputs.cache
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\ArrayTest.dll
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\refint\ArrayTest.dll
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\ArrayTest.pdb
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\ArrayTest.genruntimeconfig.cache
+C:\SwabhavTrainingRepo\day1\ArrayTest\obj\Debug\net6.0\ref\ArrayTest.dll
